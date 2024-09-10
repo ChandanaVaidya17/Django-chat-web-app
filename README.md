@@ -5,10 +5,9 @@ django and ajex for backend and mysqlite as a database
 
 
 # How to run this
-1.Clone the repository
-2.Install the django
-  pip install django
-  
-3.Open the project
-4.In the project's directory do
+- Clone the repository
+- Install the django
+- pip install django
+- Open the project
+- In the project's directory do
   python manage.py runserver
