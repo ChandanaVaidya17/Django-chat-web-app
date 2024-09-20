@@ -10,5 +10,6 @@ django and ajex for backend and mysqlite as a database
 - pip install django
 - Open the project
 - In the project's directory
+  run:
   ```
   python manage.py runserver
